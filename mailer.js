@@ -46,7 +46,6 @@ app.post('/mailer', (req, res) => {
                 place: body.contextPlace // replace {{company}} with My Company
             }
         });
-        // console.log(info, "hello info..\n");
 
         console.log("Message sent");
         res.send("Message sent")
