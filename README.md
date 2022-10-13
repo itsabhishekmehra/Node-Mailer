@@ -23,7 +23,7 @@ Then hit the API by doing below steps.
 API link: localhost:4000/mailer
 API JSON- BODY: 
 {
-    "to": "duggalabhishek0@gmail.com",
+    "to": "recievers@gmail.com",
     "subject": "Welcome Mail",
     "contextName": "Abhishek Mehra",
     "contextPlace": "Nav-Gurukul"
